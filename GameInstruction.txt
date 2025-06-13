@@ -1,1 +1,32 @@
-First, when 2 users click the "Start" button, they will have to enter their name so that the program can save their name and calculate their points. After that, the table and balls will appear and they can start to play. The rule is the same as an eight-ball pool game. After the game begins, the first player will cue the white ball to start the game. After that, players will take turns cueing the ball to get it in the hole. To cue the ball, the players will move the mouse to determine how much force they want to apply. They can also rotate the cue using the mouse.
+Game Instructions
+Objective
+Sink the balls into the pockets by striking the cue ball with the cue stick. Score points by pocketing balls according to the game rules.
+
+Controls
+Aim: Move your mouse (or use arrow keys) to rotate the cue stick around the cue ball.
+Adjust Power: Use the mouse scroll wheel or keys (e.g., Up/Down) to increase or decrease the shot power.
+
+Shoot: Press the Spacebar or Left Mouse Button to hit the cue ball.
+
+Restart Game: Press R to reset and start a new game.
+
+Pause/Resume: Press P to pause or resume the game.
+
+How to Play
+Aim the cue stick at the cue ball towards the desired target ball.
+
+Adjust the shot power to control how hard you hit the cue ball.
+
+Shoot to strike the cue ball. The balls will move, collide, and may fall into pockets.
+
+Follow the game rules for turns, scoring, and fouls (if implemented).
+
+Continue until all target balls are pocketed or game over condition is met.
+
+Tips
+Take your time to aim carefully.
+
+Use moderate power for precise shots.
+
+Watch ball trajectories and collisions for strategic plays.
+
