@@ -1,0 +1,5 @@
+1. Remove the power bar
+At first, we thought we need a power bar to shoot the ball because we have no idea about how to move the mouse to do that command. However, after researching, we figured out the way so the power bar is no longer needed.
+2. Remove Player1 and Player2 class
+To simplify the program, we realized that we just need to have a player class and then create 2 objects that represent Player1 and Player2 without having to create seperate classs for them.
+3. Our game will just be available for one player to play, because we couldn't deal with all the cases of a 1v1 game
